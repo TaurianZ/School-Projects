@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zulu_text">Chofoza inkinobho ukuze uqhubeke</string>
+    <string name="afrikaans_text">Klik knoppie om voort te gaan</string>
+    <string name="english_text">Click button to continue</string>
+    <string name="zulu_button_text">Inkinobho</string>
+    <string name="afrikaans_button_text">Knoppie</string>
+    <string name="english_button_text">Button</string>
+    <string name="welcome_to_page_2">Welcome to page 2</string>
+    <string name="app_name">MultiLingualApp</string>
+    <string name="click_button_to_continue">Click button to continue</string>
+    <string name="button_text">Button</string>
+    <string name="english">English</string>
+    <string name="zulu">Zulu</string>
+    <string name="afrikaans">Afrikaans</string>
+    <string name="english_second_page">Welcome to page 2</string>
+    <string name="zulu_second_page">Wamukelekile ekhasini lesi-2</string>
+    <string name="afrikaans_second_page">Welkom op bladsy 2</string>
+</resources>

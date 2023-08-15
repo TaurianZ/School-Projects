@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FlashcardApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#4FBCCA</item>
+        <item name="colorPrimaryVariant">#4FBCCA</item>
+        <item name="colorOnPrimary">#1B3201</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FF5722</item>
+        <item name="colorSecondaryVariant">#DA403B</item>
+        <item name="colorOnSecondary">#002902</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#B272BD</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
